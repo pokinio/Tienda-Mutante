@@ -1,0 +1,29 @@
+body{
+    background-image: url(/fondo3.jpeg);
+}
+
+h1{
+    color: rgb(212, 172, 212);
+}
+
+#boton{
+    color: rgb(61, 1, 73);
+    background-color: rgb(221, 213, 223);
+    border-color:rgb(211, 198, 214) ;
+}
+
+button:hover{
+    background-color: rgb(168, 54, 194)
+}
+
+.inicio{
+    width: 0%;
+}
+
+.final{
+    width:100%;
+}
+
+.animacion{
+    transition: all 3s ease .3s;
+}
